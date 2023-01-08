@@ -14,7 +14,7 @@
 .quote{
     position: relative;
     text-align: right;
-    padding-left: 600px;
+    padding-left: 700px;
     padding-top: 160px;
     padding-right: 200px;
     color: white;
@@ -31,7 +31,9 @@
 }
 .btn:hover{
     background-color: aqua;
-    border-radius: 2px;
+    border-radius: 4px;
+
+
 }
 
 /*  Section 2 --------------------------------*/
@@ -47,6 +49,7 @@ color: green;
 {
     list-style-type: none;
     font-size: 0.8rem;
+    color: #737272;
 }
 .section2{
     display:flex;
@@ -57,12 +60,12 @@ color: green;
 
 }
 .manphoto{
-    padding-left: 120px;
+    padding-left: 200px;
     padding-top: 45px;
 
 }
 .my-failure{
-    padding-right:220px;
+    padding-right:300px;
     padding-top: 190px;
     padding-left: 45px;
     
@@ -79,13 +82,13 @@ color: green;
     text-align: center;
 }
 .my-plan{
-    padding-top: 50px;
+    padding-top: 40px;
 }
 
 .my-plan-section{
     display: flex;
-    padding-top: 50px;
-    padding-left: 180px;
+    padding-top: 30px;
+    padding-left: 250px;
 }
 .my-plan-section div{
     padding: 20px;
@@ -117,12 +120,12 @@ color: green;
 
 }
 .watch h1{
-    padding: 50px 500px 0px 50px;
+    padding: 70px 600px 0px 100px;
 }
 .btn3{
     color: rgb(14, 101, 231);
     padding: 8px 18px 10px 20px;
-    margin-left: 50px;
+    margin-left: 100px;
     margin-top: 10px;
     font-weight: bold;
     background-color: white;
@@ -154,7 +157,7 @@ color: green;
 
 .future{
     padding-left:125px;
-    padding-right: 250px;
+    padding-right: 450px;
 
 }
 

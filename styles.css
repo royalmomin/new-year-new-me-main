@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family:'work sans';
 }
 .banner{
     background-image:url(./images/banner/banner3.png);
@@ -85,8 +86,15 @@ color: green;
 .my-plan-section div{
     padding: 20px;
     text-align: center;
-   
 }
+
+   
+.my-plan-section p{
+    color: #737272;
+
+}
+
+
 /* Gardient Section */
 
  
@@ -123,13 +131,47 @@ color: green;
 
 /*  Watch Section */
 
+
+
+
+
+
+
 .last-section{
     display: flex;
     margin-top: 130px;
-    margin-bottom: 80px;
     color: white;
     background-color: black;
     padding-top: 80px;
     background-size: cover;
-    height: 250px;
+    height: 350px;
+}
+
+
+.future{
+    padding-left:125px;
+    padding-right: 250px;
+
+}
+
+.input{
+    padding-top: 10px;
+}
+
+.subscribe{
+    padding-right: 140px;
+}
+
+    
+.btn2{
+    padding:06px 15px 10px 10px;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(30, 85, 236);
+    border-style: none;
+    border-radius: 5px;
+    }
+.icon2 img{
+     padding: 5px;
 }

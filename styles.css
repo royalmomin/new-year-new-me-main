@@ -29,8 +29,12 @@
     color: rgb(5, 91, 119);
 
 }
+.btn:hover{
+    background-color: aqua;
+    border-radius: 2px;
+}
 
-/*  Section 2 */
+/*  Section 2 --------------------------------*/
 
 
 
@@ -129,7 +133,7 @@ color: green;
 
 
 
-/*  Watch Section */
+/*  last section*/
 
 
 
